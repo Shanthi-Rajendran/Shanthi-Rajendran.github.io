@@ -1,0 +1,15 @@
+.sent p{
+    background-color : #dcdcdc;
+    padding: 5px;
+  
+  }
+  .received p {
+    color: white ;
+    background-color :#1890ff;
+    padding: 5px
+  }
+  
+  .message-history-card {
+    overflow-y: auto;
+    height:340px;
+  }
